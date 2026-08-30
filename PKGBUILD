@@ -2,7 +2,7 @@
 pkgname="iio-hyprland-git"
 _pkgname="iio-hyprland"
 pkgbase="iio-hyprland-git"
-pkgver=r90.c7ac3c0
+pkgver=r91.c5f55e4
 pkgrel=1
 pkgdesc="Reads iio-proxy-sensor output to enable automatic touchscreen rotation in Hyprland"
 arch=("x86_64")
